@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "instagram-clone-react-native",
+    "slug": "instagram-clone-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "instagram-clone-react-native"
+}
